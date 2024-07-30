@@ -6,9 +6,9 @@ https://colab.research.google.com/drive/1MBTRoMAnZrY9p_-J9rZPd0b6rHQFKCBJ?usp=sh
 
 #### Necessary documents:
 - A NER dataset for fine-tuning.
-- run_ner_old.py
-- utils.py
-- tasks.py
+- NER/run_ner_old.py
+- NER/utils.py
+- NER/tasks.py
 
 *- You can use the BERTurk model already fine-tuned with a modern Turkish dataset: https://huggingface.co/alierenak/berturk_cased_ner*
 
